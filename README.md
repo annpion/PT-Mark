@@ -1,4 +1,4 @@
-# ptMark
+# PT-Mark
 
 This repository package is organized around the main entry script:
 
